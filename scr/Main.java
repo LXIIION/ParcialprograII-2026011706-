@@ -11,5 +11,8 @@ public class Main {
 
         emp2.cambiarEstrategia(estandar);
         System.out.println("Nuevo Ingreso de Bryan con estandar: $" + emp2.calcularIngresoTotal());
+
+
+
     }
 }
